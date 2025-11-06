@@ -408,6 +408,11 @@
                 </button>
                 <input type="file" id="file-input" accept=".csv">
             </div>
+             <div class="file-input-container">
+    <a href="https://docs.google.com/spreadsheets/d/1iLftWtEUacg6iYCzZKhChR6b5nqrNQxTz6R3lulBCro/edit?gid=1457446284#gid=1457446284" id="upload-btn" class="btn" target="_blank">
+        <i class="fas fa-download"></i> Faça download Aqui
+    </a>
+</div>
             <button id="export-btn" class="btn">
                 <i class="fas fa-download"></i> Exportar Relatório
             </button>
